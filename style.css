@@ -1,0 +1,51 @@
+body
+
+	
+	{
+		background-image: url(n8.jpg);
+	}
+
+	a:link, a:visited
+	{
+		color: purple;
+		text-decoration: none;
+		display: inline-block;
+		font-family: ;
+	}
+
+
+
+	a:hover {
+  		color: pink;
+  			}
+
+  	a:active {
+         color: white;
+			}
+
+	p
+	{
+		text-align: middle ;
+	}
+
+	h1
+		{
+		 color: darkblue;
+		}
+
+a:link, a:visited {
+  background-color: purple;
+  color: pink;
+  border: 1px solid blue;
+  padding: 3px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+	 	
+		
+
+
+
